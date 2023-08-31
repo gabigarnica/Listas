@@ -3,7 +3,8 @@ import BarraBusqueda from "./componentes/BarraBusqueda";
 
 const App = () => {
   const pageStyle = {
-    backgroundColor: "darkviolet",
+    backgroundImage: "url(/imagen.jpg)",
+    backgroundSize: "cover",
     minHeight: "100vh",
     display: "flex",
     justifyContent: "center",
